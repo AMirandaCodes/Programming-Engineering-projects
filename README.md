@@ -1,5 +1,5 @@
 # VBA Engineering Projects
-This repository contains a collection of VBA projects completed as part of my engineering role in the manufacturing industry. Each project demonstrates automation, optimization, or customization solutions. Below is an overview of the projects:
+This repository contains a collection of VBA projects completed as part of my engineering role in the manufacturing industry. Each project demonstrates automation, optimization, or customisation solutions. Below is an overview of the projects:
 
 ## Projects Overview
 1. **Exporting Folders from Outlook**
