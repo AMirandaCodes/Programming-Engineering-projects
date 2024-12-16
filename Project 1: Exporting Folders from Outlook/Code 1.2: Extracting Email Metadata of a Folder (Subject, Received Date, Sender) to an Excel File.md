@@ -9,6 +9,8 @@ This VBA script automates the extraction of email metadata from a selected Outlo
 - **Metadata Details**: Each email's **Subject**, **Received Date**, and **Sender Name** are included in the Excel file.
 - **Naming Consistency**: The Excel file is named after the selected folder, with illegal characters stripped for compatibility.
 
+![image](https://github.com/user-attachments/assets/7382df08-ccd6-4a77-be83-14d8bf067bae)
+
 ## Code Prerequisites
 - **Microsoft Outlook**: Ensure that Outlook is installed and configured on your system.
 - **Microsoft Excel**: Ensure that Excel is installed to create and save the output file.
