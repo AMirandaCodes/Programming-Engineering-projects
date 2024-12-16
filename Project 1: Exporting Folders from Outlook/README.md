@@ -24,9 +24,3 @@ The company requires an automated solution to export all Outlook Public Folders 
 1. Open Outlook and ensure access to all necessary Public Folders.
 2. Run the VBA script following the provided instructions.
 3. Verify the exported files in the target location.
-
-### Subprojects and Codes
-- **Code 1.1.1**: Exporting all folders to a local drive.
-- **Code 1.1.2**: Exporting folders to the Desktop.
-- **Code 1.2.1**: Exporting email metadata to Excel.
-- **Code 1.2.2**: Exporting email metadata to Notepad.
