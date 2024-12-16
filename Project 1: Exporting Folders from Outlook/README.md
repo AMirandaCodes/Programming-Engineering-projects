@@ -1,7 +1,7 @@
 # Project 1: Exporting Folders from Outlook
 
 ## Project Brief
-The company requires an automated solution to export all Outlook Public Folders to a local drive. Public Folders are shared email storage locations accessible to all users within the organization. This one-off extraction ensures proper data backup and organization.
+The company requires an automated solution to export all Outlook Public Folders to a local drive. Public Folders are shared email storage locations accessible to all users within the organisation. This one-off extraction ensures proper data backup and organization.
 
 ## Project Requirements
 - **Folder structure**: The original structure of the Public Folders must remain intact in the exported location.
