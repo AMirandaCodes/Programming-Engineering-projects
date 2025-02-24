@@ -1,0 +1,26 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/sp/column-formatting.schema.json",
+  "elmType": "img",
+  "attributes": {
+    "src": "@thumbnail.small"
+  },
+  "style": {
+    "display": "block",
+    "margin": "0 auto",
+    "max-height": "400px"
+  },
+  "customCardProps": {
+    "openOnEvent": "hover",
+    "isBeakVisible": true,
+    "formatter": {
+      "elmType": "img",
+      "attributes": {
+        "src": "@thumbnail.2000x600"
+      },
+      "style": {
+        "max-width": "10000%",
+        "max-height": "1000%"
+      }
+    }
+  }
+}
